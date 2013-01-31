@@ -296,13 +296,13 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
+                    <li><a href="#">Add Complex</a></li>
+                    <li><a href="#">Add Residence</a></li>
+                    <li><a href="#">Add Attraction</a></li>
                     <li class="divider"></li>
-                    <li class="nav-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li class="nav-header">Personal account</li>
+                    <li><a href="#">Add friend</a></li>
+                    <li><a href="#">View all friends</a></li>
                   </ul>
                 </li>
               </ul>
@@ -320,7 +320,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="../assets/img/examples/slide-01.jpg" alt="">
+          <img src="assets/img/whitechapel.jpg" alt="">
           <div class="container">
             <div class="carousel-caption" >
               <h1>Hey there! This is our CSSE333 DB project!</h1>
@@ -330,22 +330,22 @@
           </div>
         </div>
         <div class="item">
-          <img src="../assets/img/examples/slide-02.jpg" alt="">
+          <img src="assets/img/crazyman.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>OK. Another headline!</h1>
-              <p class="lead">There used to be Latin here. Ugh.</p>
-              <a class="btn btn-large btn-primary" href="#">Learn more</a>
+              <h1>Can't find your ideal house/apartment?</h1>
+              <p class="lead">Search for your dream residence right now.</p>
+              <a class="btn btn-large btn-primary" href="#">Search now</a>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="../assets/img/examples/slide-03.jpg" alt="">
+          <img src="assets/img/house.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Now i am really running out of sentences.</h1>
-              <p class="lead">I have no idea what I am doing.</p>
-              <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
+              <h1>See what other people say about their residences</h1>
+              <p class="lead">Registered users are allowed to offer ratings!</p>
+              <a class="btn btn-large btn-primary" href="#">Rate your residence</a>
             </div>
           </div>
         </div>
@@ -385,35 +385,7 @@
       </div><!-- /.row -->
 
 
-      <!-- START THE FEATURETTES -->
-
-      <hr class="featurette-divider">
-
-      <div class="featurette">
-        <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-chrome.png">
-        <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="featurette">
-        <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
-        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="featurette">
-        <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-safari.png">
-        <h2 class="featurette-heading">And lastly, this one. <span class="muted">Checkmate.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
+    
 
 
       <!-- FOOTER -->
