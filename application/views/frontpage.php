@@ -366,21 +366,21 @@
       <div class="row">
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Recommend Houses</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <h2>Recommend Apartments/Houses</h2>
+          <p>Here we picked the most highly-rated apartments and houses in town so you know what's the best!</p>
+          <p><a class="btn" href="#">Check out the recommended list&raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Look around</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <h2>How about a Disney World right next to your driveway?</h2>
+          <p>24-7 fast food chain within walking distance - How awesome is that? Check out nearby attractions our live map!</p>
+          <p><a class="btn" href="#">Open map &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>whatever we want to put</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <h2>Best in different ways</h2>
+          <p>You might prefer a good neighborhood to a nice kitchen set. We've ranked the residences in different catogories to cater to your preference!</p>
+          <p><a class="btn" href="#">View rankings &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
