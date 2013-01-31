@@ -1,5 +1,5 @@
 <?php $this->load->view('include/header')?>
-<?php $this->load->view('include/header')?>
+<?php $this->load->view('include/navbar')?>
 
 
 <div class="container-fluid pagination-centered">
@@ -14,14 +14,14 @@
 						</div>
 					<?php endif;?>
 
-					<?php echo form_open('user/register') ?>
-						<h2 class="muted">Registration</h2>
+					<?php echo form_open('complex/addComplex') ?>
+						<h2 class="muted">Add a new complex</h2>
 
-						<label for="email"><strong>E-mail</strong></label>
-						<input class="input-large" type="text" name="email" /><br />
+						<label for="cname"><strong>Complex name</strong></label>
+						<input class="input-large" type="text" name="cname" /><br />
 
-						<label for="password"><strong>Password</strong></label>
-						<input class="input-large" type="password" name="password" /><br />
+						<label for="caddr"><strong>Complex address</strong></label>
+						<input class="input-large" type="text" name="caddr" /><br />
 						
 						<input class="btn btn-primary btn-large" type="submit" name="submit" value="register &raquo" /> 
 					</form>
