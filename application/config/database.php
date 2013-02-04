@@ -48,10 +48,6 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-$db['default']['database'] = 'HouseBook';
 $db['default']['hostname'] = 'mysql14.000webhost.com';
 $db['default']['username'] = 'a5020959';
 $db['default']['password'] = 'Database2013';
