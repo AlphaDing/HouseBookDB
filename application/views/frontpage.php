@@ -296,7 +296,7 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Add Complex</a></li>
+                    <li><a href="index.php/complex/addComplex">Add Complex</a></li>
                     <li><a href="#">Add Residence</a></li>
                     <li><a href="#">Add Attraction</a></li>
                     <li class="divider"></li>

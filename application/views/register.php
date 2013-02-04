@@ -1,5 +1,4 @@
 <?php $this->load->view('include/header')?>
-<?php $this->load->view('include/header')?>
 
 
 <div class="container-fluid pagination-centered">
