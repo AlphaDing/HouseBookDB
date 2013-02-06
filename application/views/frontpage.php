@@ -291,13 +291,13 @@
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="#Complexes">Complexes</a></li>
+                <li><a href="index.php/residence/listAllResidences">Complexes</a></li>
                 <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li><a href="index.php/complex/addComplex">Add Complex</a></li>
-                    <li><a href="#">Add Residence</a></li>
+                    <li><a href="index.php/residence/addResidence">Add Residence</a></li>
                     <li><a href="#">Add Attraction</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">Personal account</li>
