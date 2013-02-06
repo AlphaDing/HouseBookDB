@@ -19,7 +19,7 @@
 
     body {
       padding-bottom: 40px;
-      background-image: url("/assets/img/pw_maze_white.png");
+      background-image: url("assets/img/pw_maze_white.png");
     }
 
 

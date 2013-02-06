@@ -350,9 +350,10 @@
           </div>
         </div>
       </div>
+</div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-	</div>
+
     </div><!-- /.carousel -->
 
 
