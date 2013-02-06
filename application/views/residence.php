@@ -7,7 +7,7 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -42,7 +42,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="/homepage">HouseBook</a>
+          <a class="brand" href="/HouseBookDB/">HouseBook</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="/homepage">Home</a></li>
@@ -78,14 +78,14 @@
             <p><a class="btn btn-primary btn-large">View Reviews »</a></p>
           </div>
           <div class="row-fluid">
-            <div class="span4">
+            <div class="span6">
               <h2>Average Ratings:</h2>
               <p>Neighborhood - avg score of all reviews</p>
 	      <p>Amenities - avg score of all reviews</p>
               <p>Landlord - avg score of all reviews</p>
               <p><a class="btn" href="#">View all ratings »</a></p>
             </div><!--/span-->
-            <div class="span8">
+            <div class="span6">
               <h2>Details:</h2>
               <p>Number of Bedrooms - </p>
               <p>Number of Bathrooms - </p>
@@ -95,13 +95,13 @@
             </div><!--/span-->
           </div><!--/row-->
           <div class="row-fluid">
-            <div class="span4">
+            <div class="span6">
               <h2>Utilities:</h2>
               <p>List as many rows as we have been provided info on -- with method ('Gas'/'Electric')
                  and whether or not it is provided</p>
             </div><!--/span-->
-            <div class="span8">
-              <h2>Details:</h2>
+            <div class="span6">
+              <h2>Nearby Attractions:</h2>
               <p>Google Maps Data</p>
               <p><a class="btn" href="#">View in Google Maps »</a></p>
             </div><!--/span-->
